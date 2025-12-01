@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "2:23 AM / しゃろう",
+  "base_artist": "しゃろう",
+  "createdAt": "2025-12-01T16:55:29.762069Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "My December (live at Cox Arena, San Diego, CA, 2/23/2002 - Projekt Revolution Tour)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/01_My_December_(live_at_Cox_Arena,_San_Diego,_CA,_2_23_2002_-_Projekt_Revolution_To_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Radio Nowhere - Live at Hope Estate Winery, Hunter Valley, Australia - 2/23/2014",
+      "artist": "Bruce Springsteen",
+      "has_synced": true,
+      "path": "select/02_Radio_Nowhere_-_Live_at_Hope_Estate_Winery,_Hunter_Valley,_Australia_-_2_23_2014_Bruce_Springsteen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Radio Nowhere (Live at Hope Estate Winery, Hunter Valley, Australia - 2/23/2014)",
+      "artist": "Bruce Springsteen",
+      "has_synced": true,
+      "path": "select/03_Radio_Nowhere_(Live_at_Hope_Estate_Winery,_Hunter_Valley,_Australia_-_2_23_2014)_Bruce_Springsteen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lesson in Survival (Live at Carnegie Hall, New York, NY, 2/23/1972)",
+      "artist": "Joni Mitchell",
+      "has_synced": false,
+      "path": "select/04_Lesson_in_Survival_(Live_at_Carnegie_Hall,_New_York,_NY,_2_23_1972)_Joni_Mitchell.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "My December (Live at Cox Arena, San Diego, CA, 2/23/2002 - Projekt Revolution Tour) (Live Project Rev. 2002)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/05_My_December_(Live_at_Cox_Arena,_San_Diego,_CA,_2_23_2002_-_Projekt_Revolution_To_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Banquet (Live at Carnegie Hall, New York, NY, 2/23/1972)",
+      "artist": "Mitchell, Joni",
+      "has_synced": false,
+      "path": "select/06_Banquet_(Live_at_Carnegie_Hall,_New_York,_NY,_2_23_1972)_Mitchell,_Joni.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lesson in Survival (Live at Carnegie Hall, New York, NY, 2/23/1972)",
+      "artist": "Mitchell, Joni",
+      "has_synced": false,
+      "path": "select/07_Lesson_in_Survival_(Live_at_Carnegie_Hall,_New_York,_NY,_2_23_1972)_Mitchell,_Joni.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Banquet (Live at Carnegie Hall, New York, NY, 2/23/1972)",
+      "artist": "Joni Mitchell",
+      "has_synced": false,
+      "path": "select/08_Banquet_(Live_at_Carnegie_Hall,_New_York,_NY,_2_23_1972)_Joni_Mitchell.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "2:23",
+      "artist": "J9ueve",
+      "has_synced": true,
+      "path": "select/09_2_23_J9ueve.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Banquet (Live at Carnegie Hall, New York, NY, 2/23/1972)",
+      "artist": "Joni Mitchell",
+      "has_synced": true,
+      "path": "select/10_Banquet_(Live_at_Carnegie_Hall,_New_York,_NY,_2_23_1972)_Joni_Mitchell.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "You Turn Me On I'm a Radio (Live at Carnegie Hall, New York, NY, 2/23/1972)",
+      "artist": "Joni Mitchell",
+      "has_synced": false,
+      "path": "select/11_You_Turn_Me_On_I'm_a_Radio_(Live_at_Carnegie_Hall,_New_York,_NY,_2_23_1972)_Joni_Mitchell.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "You Turn Me On I’m a Radio (Live at Carnegie Hall, New York, NY, 2/23/1972)",
+      "artist": "Joni Mitchell",
+      "has_synced": true,
+      "path": "select/12_You_Turn_Me_On_I’m_a_Radio_(Live_at_Carnegie_Hall,_New_York,_NY,_2_23_1972)_Joni_Mitchell.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "DUMB (2/23/94 RAI ITALIAN TV)",
+      "artist": "NIRVANA",
+      "has_synced": true,
+      "path": "select/13_DUMB_(2_23_94_RAI_ITALIAN_TV)_NIRVANA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "2:2,3,4 (From The Depths Of The Grave)",
+      "artist": "No Tomorrow",
+      "has_synced": false,
+      "path": "select/pl_01_2_2,3,4_(From_The_Depths_Of_The_Grave)_No_Tomorrow.txt"
+    }
+  ]
+}
